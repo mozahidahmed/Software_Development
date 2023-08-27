@@ -9,7 +9,7 @@ x =undefined
 console.log(x)
 
 //let can not set x value with undefined
-//const can not set x  he did not accept this syntax .
+//const can not set x  he did not accept this syntax.
 
 
 
