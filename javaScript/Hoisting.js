@@ -8,7 +8,8 @@ var x
 x =undefined
 console.log(x)
 
-//var can not set x value with undefined
+//let can not set x value with undefined
+//const can not set x  he did not accept this syntax .
 
 
 
