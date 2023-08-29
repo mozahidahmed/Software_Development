@@ -1,9 +1,10 @@
-//basic stracture of c programming start 
-
 #include <stdio.h>
 
 int main(){
 
+ 
+    printf("Hello Mozahid World");
     
+  
     return 0;
 }
